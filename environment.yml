@@ -1,0 +1,14 @@
+name: bioasq-synergy
+dependencies:
+  - python=3.8
+  - nltk
+  - scipy
+  - pip
+  - pip:
+    - tensorflow
+    - bottle
+    - sklearn
+    - transformers
+    - seaborn
+    - progressbar2
+    
