@@ -12,6 +12,8 @@ Besides the files available in this repository, you need to obtain the following
 - `task8b_nnc_model_1024.index` (4KB)
 
 ## To run the system
+The following code replicates the results of run MQ1 at round 4. The repository also contains the code for MQ2-4 of round 4.
+
 ```
 $ conda env create -f environment.yml
 $ conda activate bioasq-synergy
