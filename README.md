@@ -1,6 +1,10 @@
 # bioasq-synergy-public
 
-Experiments for Synergy task of BioASQ8
+Experiments for Synergy task of BioASQ8. If you use this code, please cite the following paper:
+
+D. Mollá, U. Khanna, D. Galat, V. Nguyen, M. Rybinski (2021). Query-Focused Extractive Summarisation for
+Finding Ideal Answers to Biomedical and COVID-19
+Questions. *CLEF2021 Working Notes*. [[local copy](Clef2021Paper.pdf)]
 
 ## Files needed
 
