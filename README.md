@@ -8,7 +8,7 @@ Questions. *CLEF2021 Working Notes*. [[local copy](CLEF2021Paper.pdf)]
 
 ## Files needed
 
-Besides the files available in this repository, you need to obtain the following files. They are not in the github repository because of the large size of some of them:
+Besides the files available in this repository, you need to obtain the following files. They are not in the github repository because of the large size of some of them. Instead, you can find them at this link to Google drive: https://drive.google.com/drive/folders/1cfq-Kkr9NN57rhobgPHZBofsu3ehyp0b?usp=sharing
 
 - `allMeSH_2016_100.vectors.txt` (1.9GB)
 - `task8b_nnc_model_1024.data-00000-of-00002` (1.6GB)
